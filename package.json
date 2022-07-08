@@ -1,0 +1,23 @@
+{
+  "name": "parcelnikiiii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niki2222/parcelnikiiii.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niki2222/parcelnikiiii/issues"
+  },
+  "homepage": "https://github.com/Niki2222/parcelnikiiii#readme",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  }
+}
